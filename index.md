@@ -13,3 +13,6 @@
 ## 当前世界 Paper 1.15.2
 
 ## 开放时间 UTC+8 8:00 - 23:00
+
+## How-to-use
+[Link to another page](./how-to-use-mt.md).
