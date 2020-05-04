@@ -1,12 +1,5 @@
----
-title: '如何使用MineTinker？'
-date: 2020-05-04 12:01:32
-tags: []
-published: true
-hideInList: false
-feature: 
-isTop: false
----
+# 如何使用MineTinker？
+
 ## 认识MineTinker
 - MineTinker类似于匠魂工具，对原版附魔进行扩展。
 - 作者：flo56958 [https://www.spigotmc.org/resources/authors/flo56958.184735/](url)
