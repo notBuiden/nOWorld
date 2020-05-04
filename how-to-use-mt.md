@@ -47,3 +47,5 @@ MineTinker允许直接将工具源材料放置在MineTinker工具上来完成对
 ![建筑之杖](https://www.spigotmc.org/attachments/unbenannt-3-jpg.358888/)
 使用建筑之杖右键方块，将会复制该方块周围的5*5平面，同时自动扣除物品栏中的物品。
 钻石可以被不同的矿物替代，但建筑之杖的耐久同样会降低。
+
+[Back](./index.md).
