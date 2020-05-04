@@ -8,9 +8,10 @@
 ## MineTinker有哪些模块？
 在游戏中输入`/mt mods`可以查看MineTinker的模块列表及合成表。MineTinker包含了所有的原版附魔，同时对附魔效果进行了扩展、提升。
 
-## 如何将附魔属性转化为MineTinker模块？
+## 如何将附魔工具转化为MineTinker工具？
 1. 将附魔工具放入工作台，或生存模式合成栏。
 2. 从工作台或合成栏的右侧取出工具，这时你会发现原有的附魔属性已经转化成了MineTinker模块。
+3. 令大多数MineTinker工具消失的方法只有扔入虚空，其余方法均无法销毁MineTinker工具。特例是MineTinker盔甲，盔甲可以像普通/附魔盔甲一样被用爆。
    
 ## 如何给MineTinker工具添加MineTinker模块？
 1. 输入`/mt mods`查看模块列表，并选择模块进行合成。
