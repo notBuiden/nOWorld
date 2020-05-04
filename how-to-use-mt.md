@@ -35,6 +35,7 @@
 MineTinker允许直接将工具源材料放置在MineTinker工具上来完成对工具的修复，该操作会扣除一定数量的源材料。
 
 ![修复前](https://i.loli.net/2020/05/04/DQ2yi3VEmNd6k8x.png)👉 ![修复后](https://i.loli.net/2020/05/04/DSh24P8kGfeIQEZ.png)
+
 ```
 可以使用海晶碎片修复三叉戟
 可以使用幻翼膜修复鞘翅
@@ -45,7 +46,9 @@ MineTinker允许直接将工具源材料放置在MineTinker工具上来完成对
 
 ### 建筑之杖
 按图片中的合成表可以合成一把建筑之杖。
+
 ![建筑之杖](https://www.spigotmc.org/attachments/unbenannt-3-jpg.358888/)
+
 使用建筑之杖右键方块，将会复制该方块周围的5*5平面，同时自动扣除物品栏中的物品。
 钻石可以被不同的矿物替代，但建筑之杖的耐久同样会降低。
 
