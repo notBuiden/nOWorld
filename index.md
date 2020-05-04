@@ -1,12 +1,5 @@
----
-title: '认识nOWorld'
-date: 2020-05-04 11:41:47
-tags: []
-published: true
-hideInList: false
-feature: 
-isTop: false
----
+#nOWorld
+
 ## 插件列表
 
 基础插件`EssentialsX`,`EntityTrackerFixer`,`SAML`,`VisualFixer`,`CoreProtect`,`LuckPerms`
