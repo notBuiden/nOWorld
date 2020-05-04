@@ -15,4 +15,4 @@
 ## 开放时间 UTC+8 8:00 - 23:00
 
 ## How-to-use
-[Link to another page](./how-to-use-mt.md).
+[MineTinker](./how-to-use-mt.md).
